@@ -37,7 +37,7 @@ These libraries were created during my PHP years and are still widely used, but 
 ## 💻 Tech I Work With
 
 **Today:** TypeScript · Bun · Node.js · React · AI/LLM integration · Google Sheets API  
-**Previously:** PHP (author of several widely-used PHP libraries)
+**Previously:** PHP (author of several widely-used PHP libraries), Ruby, and Python. Some mobile apps for iOS and Android as well.
 
 ---
 
